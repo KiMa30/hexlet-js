@@ -1,8 +1,3 @@
-import _ from "lodash";
+import smthFunc from "./src/index.js";
 
-console.log(_.last(["one", "two"]));
-
-const func = (a) => {
-  return a * 2;
-};
-console.log(func(2));
+smthFunc();
