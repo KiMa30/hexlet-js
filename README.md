@@ -1,1 +1,1 @@
-This repo was created reьmotly for hexlet-js learning
+This repo was created for hexlet-js learning.
