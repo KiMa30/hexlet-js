@@ -1,3 +1,3 @@
-import smthFunc from "./src/index.js";
+import smthFunc from './src/index.js';
 
 smthFunc();
